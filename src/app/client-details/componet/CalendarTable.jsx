@@ -3,7 +3,6 @@
 import React from 'react';
 import FullCalendar from '@fullcalendar/react';
 import resourceTimelinePlugin from '@fullcalendar/resource-timeline';
-import dayjs from 'dayjs';
 import moment from 'moment';
 // import '@fullcalendar/core/index.css';
 // import '@fullcalendar/resource-timeline/index.css';
